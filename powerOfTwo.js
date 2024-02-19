@@ -22,4 +22,3 @@ function isPowerOfTwo(n) {
 // Example usage
 console.log(isPowerOfTwo(16)); // Output: true (16 is a power of two)
 console.log(isPowerOfTwo(12)); // Output: false (12 is not a power of two)
-            
